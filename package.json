@@ -1,0 +1,36 @@
+{
+  "name": "http-single-domain-forwarding",
+  "version": "1.0.0",
+  "description": "Simple HTTP Forwarding Server for Single Domain.",
+  "keywords": ["http", "forwarding", "simulator", "proxy", "node.js", "express"],
+  "license": "MIT",
+  "author": { 
+    "name": "Marco Di Pasquale",
+    "email": "hocram@gmail.com",
+    "url": "https://github.com/hocram",
+    "github": "https://github.com/hocram"
+  },
+  "homepage": "https://github.com/hocram/simple-http-forwarding-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hocram/simple-http-forwarding-server.git"
+  },
+  "bugs": {
+    "email": "hocram@gmail.com",
+    "url": "https://github.com/hocram/simple-http-forwarding-server/issues"
+  },
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start:dev": "nodemon src/erver.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
+
