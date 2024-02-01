@@ -1,5 +1,5 @@
 # Semplice HTTP Forwarding Server per un Singolo Dominio
-La base per un server di inoltro (Forwarding) delle richieste e delle risposte HTTP verso un singolo dominio e porta, realizzato in Node.js ed Express.
+Un server essenziale per l'inoltro (Forwarding) delle richieste e delle risposte HTTP verso un singolo dominio e porta, realizzato in Node.js ed Express.
 Progetto didattico per comprendere l'inoltro delle richieste HTTP da un server all'altro.
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-v18.15.0-green)](https://nodejs.org/)
@@ -57,7 +57,7 @@ Modifica la porta di ascolto del server, l'URL del server di destinazione (serve
 }
 ```
 
-## Authors
+## Author
 * Nome: Marco Di Pasquale (Hocram)
 * Profilo GitHub: [Hocram](https://github.com/hocram) (https://github.com/hocram)
 

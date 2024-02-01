@@ -57,7 +57,7 @@ Modify the server listening port, the destination server URL (target server), th
 }
 ```
 
-## Authors
+## Author
 * Name: Marco Di Pasquale (Hocram)
 * GitHub Profile: [Hocram](https://github.com/hocram) (https://github.com/hocram)
 
